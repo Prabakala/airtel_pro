@@ -1,0 +1,1085 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+
+    
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.mar1
+{
+    height: 20px;
+    background-color: rgb(216, 217, 217);
+}
+
+.xstream
+{
+    position: relative;
+    left: 557px;
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(95, 95, 94);
+    padding-left: 10px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+.x1
+{
+    color: black;
+    font-weight: 900px
+    ;
+}
+.xstream:hover
+{
+    color: black;
+    font-size: 10.2px;
+    font-weight: 700px;
+}
+.x1:hover
+{
+   font-size: 10px;
+}
+
+.mar2
+{
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid gray;
+}
+.air1
+{
+    height: 60px;
+    width: 120px;
+    position: absolute;
+    left: 50px;
+    top: 43px;
+}
+.air2
+{
+
+    display: inline-block;
+}
+.pre1
+{
+    display: inline-block;
+   width: 110px;
+    color: black;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: bolder;
+    border: none;
+    padding-left: 5px;
+    cursor: pointer;
+}
+
+.pre1:hover
+{
+    color: red;
+
+   
+}
+.p1 
+{
+    width: 80px;
+}
+.p1 :hover
+{
+    color: red;
+}
+.p2
+{
+    width: 80px;
+
+}
+.p2 :hover
+{
+    color: red;
+}
+.option
+{
+    border-style: none;
+    color: rgb(40, 39, 39);
+    cursor: pointer;
+}
+.air3
+{
+    position: absolute;
+    left: 200px;
+    top: 63px;
+    cursor: pointer;
+}
+.air5
+{
+    padding-left: 6px;
+    position: relative;
+    right: -700px;
+    color: rgb(60, 58, 58);
+    font-size: 20px;
+    
+   
+}
+.air6
+{
+    font-size: 9.5px;
+    letter-spacing: 1.3px;
+    color: black;
+position: relative;
+right: 16px;
+top: 10px;
+padding-left: 12px;
+font-family: sans-serif;
+cursor: pointer;
+
+}
+.air8
+{
+    display: none;
+}
+
+.header3
+{
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+  
+    
+
+}
+.recharge
+{
+    font-size: 34px;
+color: red;
+font-weight: 50;
+    line-height: 55px;
+    letter-spacing: -2.2px;
+    text-transform: capitalize;
+    position: relative;
+    top: -170px;
+    left: 30px;
+    display: inline-block;
+   
+}
+.earn
+{
+    
+    font-size: 34px;
+color: black;
+font-weight: 100;
+    line-height: 50px;
+    letter-spacing: -1.2px;
+    text-transform: capitalize;
+   
+}
+.rech{
+
+    height: 550x;
+    width: 450px;
+    position: relative;
+    left: 200px;
+    top: 50px;
+    cursor: pointer;
+    margin: 0px;
+}
+.expmore
+{
+    font-size: medium;
+    text-transform: capitalize;
+    font-weight: 100;
+    background-color: #e40000;
+    color: white;
+    height: 50px;
+    width: 220px;
+    position: relative;
+    bottom: 150px;
+    left: 60px;
+    border: none;
+    cursor: pointer;
+
+}
+.right
+{
+    color: black;
+    position: relative;
+    left: 10px;
+   
+}
+.but :hover  .right
+{
+   scale :2 1;
+   transition: .7s;
+}
+.but :hover
+{
+    background-color: rgb(171, 22, 22);
+    color: white;
+    transition: .7s;
+}
+
+.header4
+{
+    height: 450px;
+    background-color: rgb(255, 0, 0);
+    left: 0px;
+}
+.dash
+{
+    background-color: rgb(255, 255, 255);
+    height: 1px;
+    width: 170px;
+    position: relative;
+    top: 50px;
+    left: 80px;
+}
+.dash1
+{
+    background-color: rgb(255, 255, 255);
+    height: 1px;
+    width: 170px;
+    position: relative;
+    top: 50px;
+    left:850px;
+    margin: 0px;
+}
+
+.airtelthanks
+{
+    position: absolute;
+
+    top: 600px;
+    left: 230px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    font-size: 28px;
+    font-weight: 100;
+   margin-right: 0px;
+   padding: 43px;
+    letter-spacing: .5px;
+    color: rgb(1, 0, 0);
+}
+.img1
+{
+    display: inline-block;
+    padding: 40px;
+    margin-right: 40px;
+  position: relative;
+   
+    left: 100px;
+    top: 160px;
+    border: 0%;
+}
+.st
+{
+    text-align: center;
+    text-align: justify;
+    color: aliceblue;
+}
+.header5
+{
+    height: 520px;
+    background-color: rgb(255, 255, 255);
+  
+}
+.wnew
+{
+    height: 550x;
+    width: 450px;
+    position: relative;
+    left: 150px;
+    top: 50px;
+    cursor: pointer;
+}
+.all1
+{
+    position: absolute;
+
+   margin-left: 650px;
+ bottom: -800px;
+}
+.what
+{
+    font-size: 40px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    color: #ff1414;
+}
+.what::after
+{
+    position: absolute;
+    content: "";
+    background-color: #ff1414;
+    height: 4px;
+    width: 30%;
+    bottom: 80px;
+    right: 230px;
+}
+
+.packs
+{
+    font-size: 20px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    position: relative;
+    top: 20px;
+
+}
+.list
+{
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    font-size: 17px;
+    position: relative;
+    top: 20px;
+
+}
+
+.header6
+{
+    height: 520px;
+    background-color: rgb(255, 255, 255);
+  
+}
+.pic2
+{
+    position: relative;
+    left: 500px;
+    top: 50px;
+}
+.packs1
+{
+    font-size: 20px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+
+}
+.list1
+{
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    font-size: 17px;
+
+}
+.all2
+{
+    position: absolute;
+top: 1800px;
+left: 100px;
+  
+}
+.what1
+{
+    font-size: 40px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    color: #ff1414;
+}
+.what1:after
+{
+    position: absolute;
+    content: "";
+    background-color: #ff1414;
+    height: 4px;
+    width: 15%;
+    bottom:80px;
+    left: 15px;
+}
+.header7
+{
+    height: 520px;
+    background-color: rgb(255, 255, 255);
+  
+}
+.pic3
+{
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.packs2
+{
+    font-size: 20px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+
+}
+.list2
+{
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    font-size: 17px;
+
+}
+.all3
+{
+    position: absolute;
+top: 2300px;
+left: 650px;
+  
+}
+.what2
+{
+    font-size: 40px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    color: #ff1414;
+}
+.what2:after
+{
+    position: absolute;
+    content: "";
+    background-color: #ff1414;
+    height: 4px;
+    width: 13%;
+    bottom:80px;
+    left: 10px;
+}
+
+.header8
+{
+    height: 520px;
+    background-color: rgb(255, 255, 255);
+  
+}
+.pic4
+{
+    position: relative;
+    left: 550px;
+    top: 50px;
+}
+.packs1
+{
+    font-size: 20px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+
+}
+.list3
+{
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    font-size: 17px;
+
+}
+.all4
+{
+    position: absolute;
+top: 2800px;
+left: 60px;
+  
+}
+
+.what3
+{
+    font-size: 40px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    color: #ff1414;
+}
+.what3:after
+{
+    position: absolute;
+    content: "";
+    background-color: #ff1414;
+    height: 4px;
+    width: 14%;
+    bottom:80px;
+    left: 15px;
+}
+
+.box1
+{
+    height: 420px;
+    width: 545px;
+    background-color: #e40000;
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    margin: 0px;
+
+  
+}
+.box2
+{
+    height: 420px;
+    background-color: #6b050b;
+    width: 555px;
+    position: absolute;
+    top: -360px;
+left: 535px;
+    bottom: -80px;
+ 
+    padding-left: 0px;
+}
+.box
+{
+    position: absolute;
+    top: 3300px;
+ display: inline-block;
+   padding: 0;
+}
+.da
+{
+    font-size: 32px;
+    text-transform: capitalize;
+    line-height: 20px;
+    letter-spacing: -.1px;
+    color: aliceblue;
+    font-weight: 10px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: relative;
+    left: 35px;
+}
+.ios
+{
+    font-size: 18px;
+    text-transform: capitalize;
+    line-height: 20px;
+    letter-spacing: -.1px;
+    color: rgb(255, 255, 255);
+    font-weight: 10px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: absolute;
+    top: 60px;
+    left: 38px;
+}
+.ios1
+{
+    font-size: 18px;
+    text-transform: capitalize;
+    line-height: 20px;
+    letter-spacing: -.1px;
+    color: rgb(255, 255, 255);
+    font-weight: 10px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: absolute;
+    top: 60px;
+    left: 38px;
+}
+.da1 
+{
+    position: absolute;
+    top: 0px;
+    left: 35px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #ef8d07!important;
+    font-size: 32px;
+    text-transform: capitalize;
+    line-height: 20px;
+    letter-spacing: -.1px;
+    font-weight: 10px;
+}
+.googleplay
+{
+    position: relative;
+    top: 120px;
+    left: 50px;
+}
+.bbb
+{
+    position: relative;
+    top: 60px;
+}
+.ccc
+{
+    position: relative;
+    top: 50px;
+}
+.googleplay1
+{
+    position: absolute;
+    top: 100px;
+    left: 320px;
+}
+.row_1
+{
+    display: inline-block;
+    padding: 10px;
+position: absolute;
+top: 700px;
+left: 300px;
+    color: #393939;
+ 
+    font-size: 16px;
+    font-weight: 400;
+}
+.rss
+{
+    font-size: 16px;
+    font-weight: 400;
+    top: 3100px;
+left: -200px;
+position: fixed;
+text-align: justify;
+position: absolute;
+
+}
+
+.r1
+{
+    position: relative;
+    bottom: 130px;
+}
+.r2 
+{
+    position: relative;
+    bottom: 295px;
+}
+
+.r3
+{
+    position: relative;
+    bottom: 260px;
+}
+.quick1
+{
+    position: relative;
+    top: 10px;
+}
+.quick,  .quick2,  .quick3,  .quick4
+{
+    
+    color: #393939;
+ 
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.quick1{
+    color: #000;
+    font-size: 12px;
+    font-family: sans-serif;
+
+}
+
+.quick1:hover
+{
+    color: red;
+    transition: .5s;
+}
+
+
+@media (max-width:480px )
+{
+    .mar1
+    {
+        display: none;
+    }
+    .mar2
+    {
+        
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid gray;
+    width: 100%;
+    }
+    .pre1
+    {
+        display: none;
+    }
+    .air1
+    {
+        height: 64px;
+        width: 120px;
+        position: absolute;
+        left: 50px;
+        top: 20px;
+    }
+    .air3
+    {
+        position: absolute;
+        left: 120px;
+        top: 33px;
+        cursor: pointer;
+    }
+    .air7
+    {
+        display: none;
+    }
+    .air5
+    {
+    
+            padding-left: 15px;
+            position: relative;
+            right: -119px;
+            top: 4px;
+            color: rgb(60, 58, 58);
+            font-size: 20px;
+        
+    }
+    .air8{
+        display: block;
+        position: absolute;
+        bottom: -7px;
+        right: 212px;
+        font-size: 29px;
+    }
+
+    .header3
+{
+    
+  position: relative;
+  bottom: 20px;
+    
+}
+    .recharge
+{
+    font-size: 20px;
+color: red;
+font-weight: 50;
+    line-height: 55px;
+    letter-spacing: .5px;
+    text-transform: capitalize;
+    position: relative;
+    top: 40px;
+    left: 30px;
+    display: inline-block;
+   
+}
+.earn
+{
+    
+    font-size: 20px;
+color: black;
+font-weight: 100;
+    line-height: 50px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    position: relative;
+    top: -65px;
+    left: 115px;
+   
+}
+.thanks
+{
+    font-size: 20px;
+    position: relative;
+    bottom: 10px;
+}
+.rech{
+
+    height: 350x;
+    width: 350px;
+    position: relative;
+    left: 00px;
+    top: 15px;
+    cursor: pointer;
+}
+.expmore
+{
+    font-size: medium;
+    text-transform: capitalize;
+    font-weight: 100;
+    background-color: #e40000;
+    color: white;
+    height: 40px;
+    width: 350px;
+    position: relative;
+    bottom: 340px;
+    left: 40px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.star 
+{
+    position: relative;
+    top: 250px;
+    left: 30px;
+  
+    display: block;
+
+    font-size: 24px;
+    padding-left: 84px;
+    left: 62px;
+
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 30;
+
+}
+.header4
+{
+    height: 800px;
+    background-color: rgb(255, 0, 0);
+    left: 0px;
+}
+.dash
+{
+    display: none;
+}
+.dash1
+{
+   display: none;
+}
+.airtelthanks
+{
+    position: absolute;
+
+    top: 550px;
+    left: 30px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    font-size: 28px;
+    font-weight: 100;
+   margin-right: 0px;
+   padding: 43px;
+    letter-spacing: .5px;
+    color: rgb(255, 255, 255);
+}
+.st
+{
+    text-align: center;
+   text-align: left;
+    color: aliceblue;
+}
+.all1
+{
+    position: absolute;
+
+   margin-left: 10px;
+ bottom: -1000px;
+}
+.wnew
+{
+    height: 400x;
+    width: 360px;
+    position: relative;
+    left: 0px;
+    top: 350px;
+    cursor: pointer;
+}
+.pic1
+{
+    position: relative;
+    top: 120px;
+}
+.what::after
+{
+    position: absolute;
+    content: "";
+    background-color: #ff1414;
+    height: 4px;
+    width: 30%;
+    bottom: 100px;
+    right: 230px;
+}
+.header6
+{
+    height: 520px;
+    background-color: rgb(255, 255, 255);
+  
+}
+.all2
+{
+    position: absolute;
+top: 2200px;
+left: 10px;
+  
+}
+.pic2
+{
+    height: 400x;
+    width: 360px;
+    position: relative;
+    left: 00px;
+    top: 600px;
+}
+.what1:after
+{
+    position: absolute;
+    content: "";
+    background-color: #ff1414;
+    height: 4px;
+    width: 15%;
+    bottom:120px;
+    left: 15px;
+}
+.header7
+{
+    height: 720px;
+    background-color: rgb(255, 255, 255);
+  
+}
+.all3
+{
+    position: relative;
+top: 150px;
+left: 10px;
+  
+}
+.pic3
+{
+    height: 400x;
+    width: 360px;
+    position: relative;
+    left: 0px;
+    top: 800px;
+}
+.what2:after
+{
+    position: absolute;
+    content: "";
+    background-color: #ff1414;
+    height: 4px;
+    width: 14%;
+    bottom:80px;
+    left: 14px;
+}
+.header8
+{
+    height: 520px;
+    background-color: rgb(255, 255, 255);
+  
+}
+.pic4
+{
+    height: 400x;
+    width: 360px;
+    position: relative;
+    left: 0px;
+    top: 800px;
+}
+.all4
+{
+    position: absolute;
+top: 3700px;
+left: 10px;
+  
+}
+.what3:after
+{
+    position: absolute;
+    content: "";
+    background-color: #ff1414;
+    height: 4px;
+    width: 14%;
+    bottom:110px;
+    left: 15px;
+}
+.box1
+{
+    height: 380px;
+    width: 430px;
+    background-color: #e40000;
+    position: absolute;
+    top: 4360px;
+    left: 5px;
+    margin: 0px;
+
+  
+}
+.box2
+{
+    height: 370px;
+    background-color: #420b0f;
+    width: 430px;
+    position: absolute;
+    top: 4720px;
+left: 5px;
+    bottom: -80px;
+ 
+    padding-left: 0px;
+}
+.da
+{
+    font-size: 32px;
+    text-transform: capitalize;
+    line-height: 20px;
+    letter-spacing: -.1px;
+    color: rgb(255, 255, 255);
+    font-weight: 10px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: relative;
+    left: 35px;
+}
+.ios
+{
+    font-size: 18px;
+    text-transform: capitalize;
+    line-height: 20px;
+    letter-spacing: -.1px;
+    color: rgb(255, 255, 255);
+    font-weight: 10px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: absolute;
+    top: 60px;
+    left: 38px;
+}
+.ios1
+{
+    font-size: 18px;
+    text-transform: capitalize;
+    line-height: 20px;
+    letter-spacing: -.1px;
+    color: rgb(255, 255, 255);
+    font-weight: 10px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: absolute;
+    top: 60px;
+    left: 38px;
+}
+.da1 
+{
+    position: absolute;
+    top: 0px;
+    left: 35px;
+    font-family: Tondo,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #ef8d07!important;
+    font-size: 32px;
+    text-transform: capitalize;
+    line-height: 20px;
+    letter-spacing: -.1px;
+    font-weight: 10px;
+}
+.googleplay
+{
+    position: relative;
+    height: 80px;
+    width: 160px;
+    top: 140px;
+    left: 40px;
+    display: inline-block;
+}
+.googleplay1
+{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    top: 120px;
+    left: 220px;
+}
+.row_1
+{
+   display: none;
+}
+.header10
+{
+    display: block;
+   
+  
+    background-color: rgb(235, 255, 255);
+    height: 120px;
+    width: 110%;
+    position: absolute;
+    top: 5100px;
+}
+.ss 
+{
+    position: absolute;
+    left: 290px;
+    padding-left: 40px;
+}
+.qa
+{
+    position: relative;
+    left: 20px;
+    font-size: 14px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    padding-top: 10px;
+}
+
+}
